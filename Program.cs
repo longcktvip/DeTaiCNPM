@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DeTai_QLyMuonSach
+namespace DeTai_QuanLyNhanVien_NamLong
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace DeTai_QLyMuonSach
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmLogin());
         }
     }
 }

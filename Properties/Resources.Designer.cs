@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DeTai_QLyMuonSach.Properties
+namespace DeTai_QuanLyNhanVien_NamLong.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace DeTai_QLyMuonSach.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("DeTai_QLyMuonSach.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("DeTai_QuanLyNhanVien_NamLong.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

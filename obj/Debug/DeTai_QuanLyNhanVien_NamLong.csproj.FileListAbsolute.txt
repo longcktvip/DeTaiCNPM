@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\QLSV\CongNghePhanMem\prjTreeView\DeTai_QuanLyNhanVien_NamLong\bin\Debug\DeTai_QuanLyNhanVien_NamLong.exe.config
+C:\Users\ASUS\Desktop\QLSV\CongNghePhanMem\prjTreeView\DeTai_QuanLyNhanVien_NamLong\bin\Debug\DeTai_QuanLyNhanVien_NamLong.exe
+C:\Users\ASUS\Desktop\QLSV\CongNghePhanMem\prjTreeView\DeTai_QuanLyNhanVien_NamLong\bin\Debug\DeTai_QuanLyNhanVien_NamLong.pdb
+C:\Users\ASUS\Desktop\QLSV\CongNghePhanMem\prjTreeView\DeTai_QuanLyNhanVien_NamLong\obj\Debug\DeTai_QuanLyNhanVien_NamLong.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\QLSV\CongNghePhanMem\prjTreeView\DeTai_QuanLyNhanVien_NamLong\obj\Debug\DeTai_QuanLyNhanVien_NamLong.frmLogin.resources
+C:\Users\ASUS\Desktop\QLSV\CongNghePhanMem\prjTreeView\DeTai_QuanLyNhanVien_NamLong\obj\Debug\DeTai_QuanLyNhanVien_NamLong.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QLSV\CongNghePhanMem\prjTreeView\DeTai_QuanLyNhanVien_NamLong\obj\Debug\DeTai_QuanLyNhanVien_NamLong.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\QLSV\CongNghePhanMem\prjTreeView\DeTai_QuanLyNhanVien_NamLong\obj\Debug\DeTai_QuanLyNhanVien_NamLong.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\QLSV\CongNghePhanMem\prjTreeView\DeTai_QuanLyNhanVien_NamLong\obj\Debug\DeTai_QuanLyNhanVien_NamLong.exe
+C:\Users\ASUS\Desktop\QLSV\CongNghePhanMem\prjTreeView\DeTai_QuanLyNhanVien_NamLong\obj\Debug\DeTai_QuanLyNhanVien_NamLong.pdb
+C:\Users\ASUS\Desktop\QLSV\CongNghePhanMem\prjTreeView\DeTai_QuanLyNhanVien_NamLong\obj\Debug\DeTai_QuanLyNhanVien_NamLong.frmMain.resources

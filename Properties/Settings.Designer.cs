@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DeTai_QLyMuonSach.Properties
+namespace DeTai_QuanLyNhanVien_NamLong.Properties
 {
 
 
